@@ -52,7 +52,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 nr.taboola.com
 0.0.0.0 api.taboola.com
 0.0.0.0 c2.taboola.com
-0.0.0.0 https://cdn.taboola.com
 0.0.0.0 urc.taboolasyndication.com
 0.0.0.0 taboola.com.edgekey.net
 0.0.0.0 esd-secure.taboola.com.edgekey.net
@@ -70,7 +69,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 tr.outbrain.com
 0.0.0.0 vrp.outbrain.com
 0.0.0.0 vrt.outbrain.com
-0.0.0.0 tracktopviverbem.com
+0.0.0.0 track.topviverbem.com
 0.0.0.0 pips.taboola.com
 0.0.0.0 us-trc-events.taboola.com
 0.0.0.0 pm-widget.taboola.com
+0.0.0.0 advatedverried.com
+0.0.0.0 portalg5.com.br
+0.0.0.0 link.lipotraker.com
+0.0.0.0 ovovo.com.br
